@@ -1,1 +1,1 @@
-Mellowed regurgitations of my environment
+Mellowed regurgitations of my environment.
