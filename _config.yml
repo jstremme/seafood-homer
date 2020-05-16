@@ -10,7 +10,7 @@ title: seafood-homer
 email: jstremme@uw-edu
 description: > # this means to ignore newlines until "baseurl:"
   Blog for mellowed regurgitations of my environment.
-baseurl: "seafood-homer" # the subpath of your site, e.g. /blog
+baseurl: "/seafood-homer" # the subpath of your site, e.g. /blog
 url: "https://jstremme.github.io/seafood-homer/" # the base hostname & protocol for your site
 twitter_username: JoelStremmel
 github_username:  jstremme
