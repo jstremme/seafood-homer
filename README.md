@@ -1,1 +1,1 @@
-Mellowed regurgitations of my environment.
+Blog for mellowed regurgitations of my environment.
