@@ -17,3 +17,6 @@ github_username:  jstremme
 
 # Build settings
 markdown: kramdown
+
+# Categories
+permalink: /:categories/:title/

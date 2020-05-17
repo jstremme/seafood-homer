@@ -4,19 +4,99 @@
     <title>seafood-homer</title>
     <description>Blog for mellowed regurgitations of my environment.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 May 2020 16:09:40 -0700</pubDate>
-    <lastBuildDate>Sat, 16 May 2020 16:09:40 -0700</lastBuildDate>
+    <link>http://localhost:4000/seafood-homer/</link>
+    <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 May 2020 19:18:33 -0700</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 19:18:33 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Little Creatures</title>
+        <description>&lt;p&gt;Album review here.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 12:03:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/music/little-creatures/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/music/little-creatures/</guid>
+        
+        
+        <category>Music</category>
+        
+      </item>
+    
+      <item>
+        <title>I'm a Head Case</title>
+        <description>&lt;p&gt;Short story here.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 12:03:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/short-stories/head-case/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/short-stories/head-case/</guid>
+        
+        
+        <category>Short-Stories</category>
+        
+      </item>
+    
+      <item>
+        <title>Grasping What We Cannot Grasp</title>
+        <description>&lt;p&gt;Reflections on “A Walk” by Rainer Rilke.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 12:02:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/grasping-what-we-cannot-grasp/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/grasping-what-we-cannot-grasp/</guid>
+        
+        
+        <category>Poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Maple Loop Pass</title>
+        <description>&lt;p&gt;Image here.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 12:01:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/places/maple-loop-pass/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/places/maple-loop-pass/</guid>
+        
+        
+        <category>Places</category>
+        
+      </item>
+    
+      <item>
+        <title>Badlands (1973)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eITb-5R76TU&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/eITb-5R76TU/0.jpg&quot; alt=&quot;Badlands (1973) Trailer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 12:00:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/film/badlands/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/badlands/</guid>
+        
+        
+        <category>Film</category>
+        
+      </item>
+    
+      <item>
+        <title>Human Centered Data Science</title>
+        <description>&lt;p&gt;Since when has science not been about data?  I am indebted to my
+ “Human Centered Data Science” professor at University of Washington for this
+ question.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/data-science/human-centered-data-science/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/data-science/human-centered-data-science/</guid>
+        
+        
+        <category>Data-Science</category>
+        
+      </item>
     
       <item>
         <title>Hello World</title>
         <description>&lt;p&gt;Is this thing on?&lt;/p&gt;
 </description>
-        <pubDate>Sat, 16 May 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/random/2020/05/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/random/2020/05/16/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 16 May 2020 08:30:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/random/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/random/hello-world/</guid>
         
         
         <category>Random</category>

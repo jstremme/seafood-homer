@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog for mellowed regurgitations of my environment.
+Blog for mellowed regurgitations of my environment.  You can reach me at jstremme@uw.edu.
