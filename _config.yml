@@ -17,7 +17,7 @@ github_username:  jstremme
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-midnight
 
 # Categories
 permalink: /:categories/:title/
