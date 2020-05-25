@@ -5,7 +5,7 @@ date:   2019-09-25 18:01:00
 categories: Places
 ---
 
-![Maple Loop Pass](/images/maple-loop-pass.jpg)
+![Maple Loop Pass](../assets/images/maple-loop-pass.jpg)
 
 My favorite hikes tend to be colorful, exposed, and nestled between mountains for as far as the eye can see.  [Maple Loop Pass](https://www.wta.org/go-hiking/hikes/maple-pass) in [North Cascades National Park](https://en.wikipedia.org/wiki/North_Cascades_National_Park) is no exception, offering all of these in a seven mile loop which gains 2,000 feet in elevation and carries hikers along a narrow but innocuous ridgeline for much of the journey.  
 
