@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 May 2020 13:48:37 -0700</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 13:48:37 -0700</lastBuildDate>
+    <pubDate>Mon, 25 May 2020 13:56:11 -0700</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 13:56:11 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -80,7 +80,7 @@
     
       <item>
         <title>Maple Loop Pass</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://github.com/jstremme/seafood-homer/blob/master/assets/images/maple-loop-pass.jpg&quot; alt=&quot;Maple Loop Pass&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/maple-loop-pass.png&quot; alt=&quot;Maple Loop Pass&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My favorite hikes tend to be colorful, exposed, and nestled between mountains for as far as the eye can see.  &lt;a href=&quot;https://www.wta.org/go-hiking/hikes/maple-pass&quot;&gt;Maple Loop Pass&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/North_Cascades_National_Park&quot;&gt;North Cascades National Park&lt;/a&gt; is no exception, offering all of these in a seven mile loop which gains 2,000 feet in elevation and carries hikers along a narrow but innocuous ridgeline for much of the journey.&lt;/p&gt;
 
