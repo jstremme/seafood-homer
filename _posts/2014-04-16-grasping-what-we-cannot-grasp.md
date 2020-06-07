@@ -20,7 +20,7 @@ But what we feel is the wind in our faces.<br>
 
 -Rainer Rilke ([All Poetry](https://allpoetry.com/A-Walk))
 
-**Cartesian ideas and sentiments in “A Walk” by Rainer Rilke**
+**Cartesian Ideas and Sentiments in “A Walk” by Rainer Rilke**
 
 As the first modern philosopher, René Descartes has been informing our thoughts and sentiments since the beginning of the 17th century.  Rainer Rilke was a poet who wrote during the late 19th and early 20th century.  His poem “A Walk,” while perhaps not written with the intention of expressing Cartesian ideas, is informed by the ideas of Descartes, as Descartes’ ideas drastically shape the way we look at questions of doubting and knowing.  Rilke’s poem depicts a human relationship with truth, Descartes’ central concern in his writings from both *Discourse on Method* and *Meditations on First Philosophy*.    
 
