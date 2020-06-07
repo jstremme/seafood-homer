@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 May 2020 16:04:50 -0700</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 16:04:50 -0700</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 16:23:39 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 16:23:39 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -125,17 +125,15 @@
     
       <item>
         <title>Pretraining Federated Text Models for Next Word Prediction</title>
-        <description>&lt;p&gt;In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of &lt;a href=&quot;https://ai.googleblog.com/2017/04/federated-learning-collaborative.html&quot;&gt;Federated Learning&lt;/a&gt;, to which I was introduced during my machine learning course, DATA558 at University of Washington.  &lt;a href=&quot;https://research.google/people/author35837/&quot;&gt;Brendan McMahan&lt;/a&gt;, a principal researcher in Federated Learning, gave a guest lecture on his work at Google on &lt;a href=&quot;https://arxiv.org/abs/1602.05629&quot;&gt;training federated deep learning models&lt;/a&gt; which sparked my interest in the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google Federated Learning team to conduct research in the field and contribute experimental findings to their ongoing work.&lt;/p&gt;
+        <description>&lt;p&gt;In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of &lt;a href=&quot;https://ai.googleblog.com/2017/04/federated-learning-collaborative.html&quot;&gt;federated learning&lt;/a&gt;, to which I was introduced during my machine learning course, DATA558 at University of Washington.  &lt;a href=&quot;https://research.google/people/author35837/&quot;&gt;Brendan McMahan&lt;/a&gt;, a principal researcher in federated learning, gave a guest lecture on his work at Google on &lt;a href=&quot;https://arxiv.org/abs/1602.05629&quot;&gt;training federated deep learning models&lt;/a&gt; which introduced me to the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google federated learning team to conduct research in the field and contribute experimental findings to their ongoing work.&lt;/p&gt;
 
-&lt;p&gt;My research focused on pretraining methods for federated deep learning models designed for next word prediction, an important area of applied research for federated learning, as Google mobile keyboards use Federated Learning to train models to predict words in text messages, helping not only to complete our thoughts, but if you ask me, to more importantly, offer suggestions for correctly spelled words.  With the Google keyboard just early application of Federated Learning, there are many open areas for this area of research to impact our lives, particularly in healthcare where data is often distributed but private, silod across various providor, payer, and research insitituions.&lt;/p&gt;
+&lt;p&gt;My research focused on pretraining methods for federated deep learning models designed for next word prediction.  This is an important area of applied research for federated learning, as the Google mobile keyboard app uses federated learning to train models to predict words in text messages, offering user suggestions for the top three predicted words given some starting text.  While the Google mobile keyboard is an early application of federated learning, there are many open areas of research, some with tremendous impact potential.  For example, most clinical research with machine learning models is currently limited to electronic medical records owned by a single institution.  Models may not generalize from training data at one institution to another, and training datasets are often limited to the size of the dataset at one institution.  Federated models present the possibility of learning from medical records from many institutions without compromising privacy or security by bringing the model to each distributed dataset and averaging the learned parameters, as opposed to centrally aggregating patient data, which is often a legal and ethical impossibility. Just as Google uses federated models to avoid centrally aggregating user text messages, so too federated models could be used to generate predictions and recommendations for patients based on distributed medical data.&lt;/p&gt;
 
-&lt;p&gt;mentors on the Federated Learning team at Google, and help from our professor at UW.  You can check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for the project here. The paper is on arXiv but not yet published with peer-review.&lt;/p&gt;
-
-&lt;p&gt;In future blog posts I intend to write about my experience writing a research paper, building an open source codebase for a particular data science task, and human-centered considerations for data science work.  I may also feature open-source projects I’m working on or have completed that.&lt;/p&gt;
+&lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  You can check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for my small contribution to the field, and please don’t hesitate to reach out if it sparks your interest :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/data-science/human-centered-data-science/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/data-science/human-centered-data-science/</guid>
+        <link>http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</guid>
         
         
         <category>Data-Science</category>
@@ -271,7 +269,7 @@ But what we feel is the wind in our faces.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;-Rainer Rilke (&lt;a href=&quot;https://allpoetry.com/A-Walk&quot;&gt;All Poetry&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cartesian ideas and sentiments in “A Walk” by Rainer Rilke&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cartesian Ideas and Sentiments in “A Walk” by Rainer Rilke&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;As the first modern philosopher, René Descartes has been informing our thoughts and sentiments since the beginning of the 17th century.  Rainer Rilke was a poet who wrote during the late 19th and early 20th century.  His poem “A Walk,” while perhaps not written with the intention of expressing Cartesian ideas, is informed by the ideas of Descartes, as Descartes’ ideas drastically shape the way we look at questions of doubting and knowing.  Rilke’s poem depicts a human relationship with truth, Descartes’ central concern in his writings from both &lt;em&gt;Discourse on Method&lt;/em&gt; and &lt;em&gt;Meditations on First Philosophy&lt;/em&gt;.&lt;/p&gt;
 
