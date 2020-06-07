@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 16:23:39 -0700</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 16:23:39 -0700</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 16:46:24 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 16:46:24 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -112,7 +112,7 @@
     
       <item>
         <title>Little Creatures</title>
-        <description>&lt;p&gt;Album review here.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz&quot;&gt;&lt;em&gt;Little Creatures&lt;/em&gt;&lt;/a&gt; is a fine album and I highly recommend it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 12:03:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/music/little-creatures/</link>
@@ -127,9 +127,11 @@
         <title>Pretraining Federated Text Models for Next Word Prediction</title>
         <description>&lt;p&gt;In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of &lt;a href=&quot;https://ai.googleblog.com/2017/04/federated-learning-collaborative.html&quot;&gt;federated learning&lt;/a&gt;, to which I was introduced during my machine learning course, DATA558 at University of Washington.  &lt;a href=&quot;https://research.google/people/author35837/&quot;&gt;Brendan McMahan&lt;/a&gt;, a principal researcher in federated learning, gave a guest lecture on his work at Google on &lt;a href=&quot;https://arxiv.org/abs/1602.05629&quot;&gt;training federated deep learning models&lt;/a&gt; which introduced me to the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google federated learning team to conduct research in the field and contribute experimental findings to their ongoing work.&lt;/p&gt;
 
-&lt;p&gt;My research focused on pretraining methods for federated deep learning models designed for next word prediction.  This is an important area of applied research for federated learning, as the Google mobile keyboard app uses federated learning to train models to predict words in text messages, offering user suggestions for the top three predicted words given some starting text.  While the Google mobile keyboard is an early application of federated learning, there are many open areas of research, some with tremendous impact potential.  For example, most clinical research with machine learning models is currently limited to electronic medical records owned by a single institution.  Models may not generalize from training data at one institution to another, and training datasets are often limited to the size of the dataset at one institution.  Federated models present the possibility of learning from medical records from many institutions without compromising privacy or security by bringing the model to each distributed dataset and averaging the learned parameters, as opposed to centrally aggregating patient data, which is often a legal and ethical impossibility. Just as Google uses federated models to avoid centrally aggregating user text messages, so too federated models could be used to generate predictions and recommendations for patients based on distributed medical data.&lt;/p&gt;
+&lt;p&gt;My research focused on pretraining methods for federated deep learning models designed for next word prediction.  This is an important area of applied research for federated learning, as the Google mobile keyboard application uses federated learning to train models to predict words in text messages, offering user suggestions for the top three predicted words given some starting text.  Model pretraining promises enhanced accuracy and reduced training time, which we demonstrate in our research results.&lt;/p&gt;
 
-&lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  You can check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for my small contribution to the field, and please don’t hesitate to reach out if it sparks your interest :)&lt;/p&gt;
+&lt;p&gt;While the Google mobile keyboard is an early application of federated learning, there are many open areas of research, some with tremendous impact potential.  For example, most clinical research with machine learning models is limited to electronic medical records owned by a single institution.  Models may not generalize from training data at one institution to another, and training datasets are often limited to the size of the dataset at one institution.  Federated models present the possibility of learning from medical records from many institutions without compromising privacy or security by bringing the model to each distributed dataset and averaging the learned parameters, as opposed to centrally aggregating patient data, which is often a legal and ethical impossibility. Just as Google uses federated models to avoid centrally aggregating user text messages, so too federated models could be used to generate predictions and recommendations for patients based on distributed medical data.&lt;/p&gt;
+
+&lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for our work, and please don’t hesitate to reach out if the topic sparks your interest :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</link>
@@ -144,7 +146,7 @@
         <title>Hello World</title>
         <description>&lt;p&gt;Is this thing on?&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 May 2020 08:30:00 -0700</pubDate>
+        <pubDate>Sun, 10 May 2020 08:30:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/random/hello-world/</link>
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/random/hello-world/</guid>
         
@@ -155,7 +157,7 @@
     
       <item>
         <title>Maple Loop Pass</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/maple-loop-pass.png&quot; alt=&quot;Maple Loop Pass&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/seafood-homer/assets/images/maple-loop-pass.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My favorite hikes tend to be colorful, exposed, and nestled between mountains for as far as the eye can see.  &lt;a href=&quot;https://www.wta.org/go-hiking/hikes/maple-pass&quot;&gt;Maple Loop Pass&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/North_Cascades_National_Park&quot;&gt;North Cascades National Park&lt;/a&gt; is no exception, offering all of these in a seven mile loop which gains 2,000 feet in elevation and carries hikers along a narrow but innocuous ridgeline for much of the journey.&lt;/p&gt;
 
