@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 16:46:24 -0700</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 16:46:24 -0700</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Sat, 26 Sep 2020 14:44:32 -0700</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 14:44:32 -0700</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Badlands (1973)</title>
@@ -22,7 +22,7 @@
 
 &lt;p&gt;In &lt;em&gt;Badlands&lt;/em&gt; Malick takes many liberties with the true story of &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_Starkweather&quot;&gt;Charles Starkweather&lt;/a&gt;.  From Nebraska, not South Dakota, Starkweather was only 19 when he murdered 11 people.  Malick casts Sheen as 25-year-old Kit Carruthers, though Sheen was actually 33 at the time, with a physique far better than what you might imagine for an outcast serial killer.  Kit’s magnetism and Malick’s shots of the wide-open South Dakota prairie defy expectations throughout the film.  It’s not a dark, twisted psychological thriller like &lt;a href=&quot;https://www.youtube.com/watch?v=zAGVQLHvwOY&quot;&gt;&lt;em&gt;Joker&lt;/em&gt;&lt;/a&gt; from 2019, which though an impressive performance from Joaquin Phoenix, was disturbing in the ways one might expect.  Kit Carruthers on the other hand, surprises his audience throughout &lt;em&gt;Badlands&lt;/em&gt;, holding up innocent victims and pulling the trigger without a second thought, without ever calling his actions into question, all the while bringing his 15-year-old girlfriend, Holly, along for the ride.  It is, for Kit, and for Malick, choreographing Kit’s tear on the silver screen, as if everything is permitted, existing entirely without reason.  In &lt;em&gt;Badlands&lt;/em&gt;, Kit Carruthers has no schizophrenic parent as does Arthur Fleck, The Joker, to explain his detachment from reality and human suffering.  In fact, there is no back story, only his immediate desire for Holly, his 15-year-old companion, and a life free of authority, neither of which vindicate his character.&lt;/p&gt;
 
-&lt;p&gt;Even for those, including yours truly, who admire youthful rebellion, the James Dean’s of the world, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Easy_Rider&quot;&gt;Easy Riders&lt;/a&gt; (a favorite worth comparing to &lt;em&gt;Badlands&lt;/em&gt;), there is nothing to admire about Kit Carruthers.  There is no ambition or idealism offered by his actions or words to put in contention with the commonly accepted values of society, for Kit makes no such contention, and neither does Malick who merely portrays a mind in which everything is permitted, and lays bare the reality of such an attitude on the silver screen, against the backdrop of the golden, South Dakota prairie.  In this way there is nothing to value in Kit’s rebellion, not even freedom, something Kit himself can’t stand.  He allows himself to be caught.  He has no more reason to flee than to be captured.&lt;/p&gt;
+&lt;p&gt;Even for those, including yours truly, who admire youthful rebellion, the James Deans of the world, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Easy_Rider&quot;&gt;Easy Riders&lt;/a&gt; (a favorite worth comparing to &lt;em&gt;Badlands&lt;/em&gt;), there is nothing to admire about Kit Carruthers.  There is no ambition or idealism offered by his actions or words to put in contention with the commonly accepted values of society, for Kit makes no such contention, and neither does Malick who merely portrays a mind in which everything is permitted, and lays bare the reality of such an attitude on the silver screen, against the backdrop of the golden, South Dakota prairie.  In this way there is nothing to value in Kit’s rebellion, not even freedom, something Kit himself can’t stand.  He allows himself to be caught.  He has no more reason to flee than to be captured.&lt;/p&gt;
 
 &lt;p&gt;Just as a life free from authority is not Kit’s ultimate motive, neither is his love for Holly, particularly if the actions of the real Charles Starkweather may speak for Kit Carruthers.  In his capture, the real Starkweather turned on his girlfriend, insisting she was guilty for the murders he committed.  &lt;a href=&quot;https://www.youtube.com/watch?v=iir_xAbt-ak&quot;&gt;“Nebraska”&lt;/a&gt;, the Bruce Springsteen song about Starkweather, put a spin on his insistence, claiming that Starkweather wanted Caril Ann Fugate, the real Holly, on his lap when he went to the electric chair on June 25th, 1959.&lt;/p&gt;
 
@@ -112,7 +112,7 @@
     
       <item>
         <title>Little Creatures</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz&quot;&gt;&lt;em&gt;Little Creatures&lt;/em&gt;&lt;/a&gt; is a fine album and I highly recommend it.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz&quot;&gt;&lt;em&gt;Little Creatures&lt;/em&gt;&lt;/a&gt; by Talking Heads is a fine album and I highly recommend it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 12:03:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/music/little-creatures/</link>
@@ -139,19 +139,6 @@
         
         
         <category>Data-Science</category>
-        
-      </item>
-    
-      <item>
-        <title>Hello World</title>
-        <description>&lt;p&gt;Is this thing on?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 May 2020 08:30:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/random/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/random/hello-world/</guid>
-        
-        
-        <category>Random</category>
         
       </item>
     
@@ -293,6 +280,19 @@ But what we feel is the wind in our faces.&lt;br /&gt;&lt;/p&gt;
         
         
         <category>Poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Is this thing on?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 May 2013 06:30:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/random/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/random/hello-world/</guid>
+        
+        
+        <category>Random</category>
         
       </item>
     
