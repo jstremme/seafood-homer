@@ -269,6 +269,7 @@ DEPENDENCIES
   nokogiri
   rack (~> 2.1.4)
   rspec
+  yargs-parser (~>13.1.2)
 
 BUNDLED WITH
    2.1.4
