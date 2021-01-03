@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Sep 2020 14:44:32 -0700</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2020 14:44:32 -0700</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2021 11:19:09 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2021 11:19:09 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Roots</title>
+        <description>&lt;p&gt;I spent years away from you,&lt;/p&gt;
+
+&lt;p&gt;And buried thousands of hours of thoughts&lt;/p&gt;
+
+&lt;p&gt;Below the surface of your being,&lt;/p&gt;
+
+&lt;p&gt;Deep where I thought you were not.&lt;/p&gt;
+
+&lt;p&gt;Then, on a dark day,&lt;/p&gt;
+
+&lt;p&gt;On a tree-covered path,&lt;/p&gt;
+
+&lt;p&gt;I noticed the roots of the trees&lt;/p&gt;
+
+&lt;p&gt;Were so strong&lt;/p&gt;
+
+&lt;p&gt;That they rose from below&lt;/p&gt;
+
+&lt;p&gt;And shattered the bricks of the path,&lt;/p&gt;
+
+&lt;p&gt;Breaking the seal that held them straight.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2021 17:30:00 -0800</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/roots/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/roots/</guid>
+        
+        
+        <category>Poetry</category>
+        
+      </item>
     
       <item>
         <title>Badlands (1973)</title>
