@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2021 11:29:45 -0800</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2021 11:29:45 -0800</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2021 12:00:01 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2021 12:00:01 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -39,6 +39,75 @@
         <pubDate>Sat, 02 Jan 2021 17:30:00 -0800</pubDate>
         <link>http://localhost:4000/seafood-homer/poetry/roots/</link>
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/roots/</guid>
+        
+        
+        <category>Poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Deaf Patron: Seattle Fall 2020</title>
+        <description>&lt;p&gt;“Start the engine,”&lt;/p&gt;
+
+&lt;p&gt;Said the mechanic without words&lt;/p&gt;
+
+&lt;p&gt;But in two languages,&lt;/p&gt;
+
+&lt;p&gt;The first known to most who speak,&lt;/p&gt;
+
+&lt;p&gt;The second to few,&lt;/p&gt;
+
+&lt;p&gt;Save the man to whom he gestured.&lt;/p&gt;
+
+&lt;p&gt;The man signed back.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Across the street from the auto shop&lt;/p&gt;
+
+&lt;p&gt;Is short cut grass,&lt;/p&gt;
+
+&lt;p&gt;Picnic tables, and sunshine,&lt;/p&gt;
+
+&lt;p&gt;Beating down on the corporate art,&lt;/p&gt;
+
+&lt;p&gt;The giant copper people embracing,&lt;/p&gt;
+
+&lt;p&gt;Their legs towering over me,&lt;/p&gt;
+
+&lt;p&gt;Their shadows cast far out into the street,&lt;/p&gt;
+
+&lt;p&gt;Almost touching the embers of the trees,&lt;/p&gt;
+
+&lt;p&gt;Still glowing orange around the edges.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;There is a giant hole through the middle of the people through which the rare blue sky is visible,&lt;/p&gt;
+
+&lt;p&gt;Through which the bay, and the train tracks, and the occasional rushing Sounder can be seen.&lt;/p&gt;
+
+&lt;p&gt;There is no telling to whom the hole belongs,&lt;/p&gt;
+
+&lt;p&gt;To each body or to the space between bodies,&lt;/p&gt;
+
+&lt;p&gt;The shape they make, curved, leaning against each other.&lt;/p&gt;
+
+&lt;p&gt;There is no description for this piece,&lt;/p&gt;
+
+&lt;p&gt;No sign revealing the work beyond that of the bodies, and their heads,&lt;/p&gt;
+
+&lt;p&gt;Split wide open at the top like flower petals.&lt;/p&gt;
+
+&lt;p&gt;If sprinklers rise up from their skulls&lt;/p&gt;
+
+&lt;p&gt;And proceed to water the tidy grass before the office buildings with no employees,&lt;/p&gt;
+
+&lt;p&gt;I will join in the drinking.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Oct 2020 22:30:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/seattle-fall-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/seattle-fall-2020/</guid>
         
         
         <category>Poetry</category>
