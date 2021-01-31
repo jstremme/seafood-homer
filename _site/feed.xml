@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2021 12:00:01 -0800</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2021 12:00:01 -0800</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2021 18:41:26 -0800</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2021 18:41:26 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Perfectum</title>
+        <description>&lt;p&gt;Click the thumbnail below to view “Perfectum” on YouTube.  I’m considering creating more short films and would appreciate any feedback in the YouTube comments.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8xQsOL5TjwE&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/8xQsOL5TjwE/0.jpg&quot; alt=&quot;Perfectum (2021) Short Film&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jan 2021 12:30:00 -0800</pubDate>
+        <link>http://localhost:4000/seafood-homer/film/perfectum/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/perfectum/</guid>
+        
+        
+        <category>Film</category>
+        
+      </item>
     
       <item>
         <title>Roots</title>
@@ -384,19 +399,6 @@ But what we feel is the wind in our faces.&lt;br /&gt;&lt;/p&gt;
         
         
         <category>Poetry</category>
-        
-      </item>
-    
-      <item>
-        <title>Hello World</title>
-        <description>&lt;p&gt;Is this thing on?&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 May 2013 06:30:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/random/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/random/hello-world/</guid>
-        
-        
-        <category>Random</category>
         
       </item>
     
