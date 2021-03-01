@@ -4,10 +4,10 @@
     <title>seafood-homer</title>
     <description>Blog for mellowed regurgitations of my environment.
 </description>
-    <link>http://localhost:4000/seafood-homer/</link>
-    <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2021 18:41:26 -0800</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2021 18:41:26 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Mar 2021 05:21:33 -0800</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 05:21:33 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8xQsOL5TjwE&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/8xQsOL5TjwE/0.jpg&quot; alt=&quot;Perfectum (2021) Short Film&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Jan 2021 12:30:00 -0800</pubDate>
-        <link>http://localhost:4000/seafood-homer/film/perfectum/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/perfectum/</guid>
+        <link>http://localhost:4000/film/perfectum/</link>
+        <guid isPermaLink="true">http://localhost:4000/film/perfectum/</guid>
         
         
         <category>Film</category>
@@ -52,8 +52,8 @@
 &lt;p&gt;Breaking the seal that held them straight.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jan 2021 17:30:00 -0800</pubDate>
-        <link>http://localhost:4000/seafood-homer/poetry/roots/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/roots/</guid>
+        <link>http://localhost:4000/poetry/roots/</link>
+        <guid isPermaLink="true">http://localhost:4000/poetry/roots/</guid>
         
         
         <category>Poetry</category>
@@ -121,8 +121,8 @@
 &lt;p&gt;I will join in the drinking.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Oct 2020 22:30:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/poetry/seattle-fall-2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/seattle-fall-2020/</guid>
+        <link>http://localhost:4000/poetry/seattle-fall-2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/poetry/seattle-fall-2020/</guid>
         
         
         <category>Poetry</category>
@@ -148,8 +148,8 @@
 &lt;p&gt;Charles Starkweather was the last Nebraskan to be sentenced to death until 1994. It was not Malick’s intention for the viewer of &lt;em&gt;Badlands&lt;/em&gt; to rejoice in the death of Kit Carruthers, or even to lament it, as no doubt many viewers like myself are opposed to the death penalty, no matter the crimes committed.  Instead, Malick cuts Badlands short, sharing that Kit was sentenced to death but ending the film without showing it.  Instead, the film ends with the viewer wondering what to make of the bloody spree of Kit Carruthers, not whether or not his death at the hands of the law is justified.  Similarly, there is little room for the viewer to question if Kit’s murders are justified.  They are simply permitted in his mind, and by Malick who believes there is something worth seeing in the story, which, among other things, is also a beautiful excuse to show off his cinematography.  But it is no mistake that these go hand in hand: the beautiful and the terrible, the commendable and the reprehensible.  There is something so clear about &lt;em&gt;Badlands&lt;/em&gt; that we wonder if it was necessary to represent, which is perhaps exactly why Malick chose to represent it.  After all, we are made to come to terms with the film.  And perhaps there is something to love in the search for depth where maybe there is none.  Or, there is a very big mistake in the mind that finds no depth, and needs for some things not to be permitted.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 May 2020 15:30:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/film/badlands/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/badlands/</guid>
+        <link>http://localhost:4000/film/badlands/</link>
+        <guid isPermaLink="true">http://localhost:4000/film/badlands/</guid>
         
         
         <category>Film</category>
@@ -221,8 +221,8 @@
 &lt;p&gt;From now until the end.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 May 2020 19:30:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/poetry/running-beneath-the-moon/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/running-beneath-the-moon/</guid>
+        <link>http://localhost:4000/poetry/running-beneath-the-moon/</link>
+        <guid isPermaLink="true">http://localhost:4000/poetry/running-beneath-the-moon/</guid>
         
         
         <category>Poetry</category>
@@ -234,8 +234,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz&quot;&gt;&lt;em&gt;Little Creatures&lt;/em&gt;&lt;/a&gt; by Talking Heads is a fine album and I highly recommend it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 12:03:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/music/little-creatures/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/music/little-creatures/</guid>
+        <link>http://localhost:4000/music/little-creatures/</link>
+        <guid isPermaLink="true">http://localhost:4000/music/little-creatures/</guid>
         
         
         <category>Music</category>
@@ -253,8 +253,8 @@
 &lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for our work, and please don’t hesitate to reach out if the topic sparks your interest :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</guid>
+        <link>http://localhost:4000/data-science/pretraining-federated-text-models/</link>
+        <guid isPermaLink="true">http://localhost:4000/data-science/pretraining-federated-text-models/</guid>
         
         
         <category>Data-Science</category>
@@ -263,7 +263,7 @@
     
       <item>
         <title>Maple Loop Pass</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/seafood-homer/assets/images/maple-loop-pass.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/maple-loop-pass.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;My favorite hikes tend to be colorful, exposed, and nestled between mountains for as far as the eye can see.  &lt;a href=&quot;https://www.wta.org/go-hiking/hikes/maple-pass&quot;&gt;Maple Loop Pass&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/North_Cascades_National_Park&quot;&gt;North Cascades National Park&lt;/a&gt; is no exception, offering all of these in a seven mile loop which gains 2,000 feet in elevation and carries hikers along a narrow but innocuous ridgeline for much of the journey.&lt;/p&gt;
 
@@ -272,8 +272,8 @@
 &lt;p&gt;The steady elevation gain and moderate distance make this hike a worthy weekend constitutional, while the open environment offers a gorgeous respite for those seeking peace in nature.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Sep 2019 11:01:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/places/maple-loop-pass/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/places/maple-loop-pass/</guid>
+        <link>http://localhost:4000/places/maple-loop-pass/</link>
+        <guid isPermaLink="true">http://localhost:4000/places/maple-loop-pass/</guid>
         
         
         <category>Places</category>
@@ -352,8 +352,8 @@ digest the dissonance of the sounds in this place and many others; to carry each
 through.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 05:03:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/short-stories/dogs/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/short-stories/dogs/</guid>
+        <link>http://localhost:4000/short-stories/dogs/</link>
+        <guid isPermaLink="true">http://localhost:4000/short-stories/dogs/</guid>
         
         
         <category>Short-Stories</category>
@@ -394,8 +394,8 @@ But what we feel is the wind in our faces.&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;It is not clear if Rilke’s poem as it refers to grasping truth and being charged by an inner light is referring to God as Descartes might advocate, but we can conjecture that Rilke is referring to truth as something we struggle to know.  It is a struggle with the wind in our faces, but it is in our relationship with this struggle that the truth beckons us with a wave that answers our waves, illuminating the state of being that is our own, the state in which we are perfect as thinking, grasping things, with feet bound to the road, but eyes far ahead, narrowed to bear the wind, and touching nonetheless the sunny hill in the distance.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Apr 2014 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/poetry/grasping-what-we-cannot-grasp/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/grasping-what-we-cannot-grasp/</guid>
+        <link>http://localhost:4000/poetry/grasping-what-we-cannot-grasp/</link>
+        <guid isPermaLink="true">http://localhost:4000/poetry/grasping-what-we-cannot-grasp/</guid>
         
         
         <category>Poetry</category>
