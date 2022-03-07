@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Data Science"
-permalink: /data-science/
+title: "Machine Learning"
+permalink: /machine-learning/
 ---
 
-{% for post in site.categories.Data-Science %}
+{% for post in site.categories.Machine-Learning %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
 {% endfor %}
