@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Perfectum"
+title:  Perfectum
 date:   2021-01-30 20:30:00
-categories: Film
+categories: film
 ---
 
 Click the thumbnail below to view "Perfectum" on YouTube.  I'm considering creating more short films and would appreciate any feedback in the YouTube comments.  

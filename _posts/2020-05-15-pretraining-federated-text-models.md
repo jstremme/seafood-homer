@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pretraining Federated Text Models for Next Word Prediction"
+title:  Pretraining Federated Text Models for Next Word Prediction
 date:   2020-05-16 18:00:00
-categories: Machine-Learning
+categories: machine-learning
 ---
 
 In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of [federated learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html), to which I was introduced during my machine learning course, DATA558 at University of Washington.  [Brendan McMahan](https://research.google/people/author35837/), a principal researcher in federated learning, gave a guest lecture on his work at Google on [training federated deep learning models](https://arxiv.org/abs/1602.05629) which introduced me to the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google federated learning team to conduct research in the field and contribute experimental findings to their ongoing work.

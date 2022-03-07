@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2022 18:26:26 -0800</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2022 18:26:26 -0800</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 19:50:43 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 19:50:43 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -47,7 +47,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/light/</guid>
         
         
-        <category>Poetry</category>
+        <category>poetry</category>
         
       </item>
     
@@ -94,7 +94,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/nest/</guid>
         
         
-        <category>Poetry</category>
+        <category>poetry</category>
         
       </item>
     
@@ -107,7 +107,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
         
         
-        <category>Machine-Learning</category>
+        <category>machine-learning</category>
         
       </item>
     
@@ -152,7 +152,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/april/</guid>
         
         
-        <category>Poetry</category>
+        <category>poetry</category>
         
       </item>
     
@@ -167,7 +167,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/perfectum/</guid>
         
         
-        <category>Film</category>
+        <category>film</category>
         
       </item>
     
@@ -236,7 +236,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/seattle-fall-2020/</guid>
         
         
-        <category>Poetry</category>
+        <category>poetry</category>
         
       </item>
     
@@ -263,7 +263,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/film/badlands/</guid>
         
         
-        <category>Film</category>
+        <category>film</category>
         
       </item>
     
@@ -336,7 +336,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/running-beneath-the-moon/</guid>
         
         
-        <category>Poetry</category>
+        <category>poetry</category>
         
       </item>
     
@@ -349,7 +349,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/music/little-creatures/</guid>
         
         
-        <category>Music</category>
+        <category>music</category>
         
       </item>
     
@@ -368,7 +368,7 @@
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</guid>
         
         
-        <category>Machine-Learning</category>
+        <category>machine-learning</category>
         
       </item>
     

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Grasping What We Cannot Grasp"
+title:  Grasping What We Cannot Grasp
 date:   2014-04-16 19:00:00
-categories: Philosophy
+category: philosophy
 ---
 
 A Walk

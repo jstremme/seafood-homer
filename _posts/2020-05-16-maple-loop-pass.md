@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Maple Loop Pass"
+title:  Maple Loop Pass
 date:   2019-09-25 18:01:00
-categories: Places
+categories: places
 ---
 
 <img src="{{ site.baseurl }}/assets/images/maple-loop-pass.png">

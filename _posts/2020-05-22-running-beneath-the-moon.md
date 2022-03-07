@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Running Beneath the Moon"
+title:  Running Beneath the Moon
 date:   2020-05-22 02:30:00
-categories: Poetry
+categories: poetry
 ---
 
 When the moon rises over the flood lamps on the empty playground,
