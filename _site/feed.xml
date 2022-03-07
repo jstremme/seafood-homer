@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2022 19:50:43 -0800</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2022 19:50:43 -0800</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 20:09:13 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 20:09:13 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Gardener</title>
+        <description>&lt;p&gt;Early in the morning,
+the skeleton gardener
+plucks a sprig of lavender,
+the sound of bone on bone
+from between his fingers
+softened by the delicate purple buds,
+dusty, crumbling a little,
+as index meets thumb.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Jan 2022 11:20:00 -0800</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/gardner/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/gardner/</guid>
+        
+        
+        <category>poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Multi-Node Multi-GPU Comprehensive Working Example for PyTorch Lightning on AzureML</title>
+        <description>&lt;p&gt;With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  You can check it out at &lt;a href=&quot;https://medium.com/@joelstremmel22/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml-bde6abdcd6aa&quot;&gt;this link&lt;/a&gt;. I hope the guide is useful to ML practitioners and researchers alike.  Feel free to leave comments on Medium.  Thanks in advance for any feedback!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Oct 2021 11:00:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
+        
+        
+        <category>machine-learning</category>
+        
+      </item>
     
       <item>
         <title>Light</title>
@@ -42,7 +75,7 @@
 
 &lt;p&gt;in some moments shining over the earth.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 06 Mar 2022 11:20:00 -0800</pubDate>
+        <pubDate>Thu, 09 Sep 2021 12:20:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/poetry/light/</link>
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/light/</guid>
         
@@ -89,25 +122,12 @@
 
 &lt;p&gt;sounding the ineffable fullness of life.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 06 Mar 2022 11:10:00 -0800</pubDate>
+        <pubDate>Wed, 08 Sep 2021 12:10:00 -0700</pubDate>
         <link>http://localhost:4000/seafood-homer/poetry/nest/</link>
         <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/nest/</guid>
         
         
         <category>poetry</category>
-        
-      </item>
-    
-      <item>
-        <title>Multi-Node Multi-GPU Comprehensive Working Example for PyTorch Lightning on AzureML</title>
-        <description>&lt;p&gt;With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  You can check it out at &lt;a href=&quot;https://medium.com/@joelstremmel22/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml-bde6abdcd6aa&quot;&gt;this link&lt;/a&gt;. I hope the guide is useful to ML practitioners and researchers alike.  Feel free to leave comments on Medium.  Thanks in advance for any feedback!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Oct 2021 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
-        
-        
-        <category>machine-learning</category>
         
       </item>
     
@@ -350,25 +370,6 @@
         
         
         <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>Pretraining Federated Text Models for Next Word Prediction</title>
-        <description>&lt;p&gt;In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of &lt;a href=&quot;https://ai.googleblog.com/2017/04/federated-learning-collaborative.html&quot;&gt;federated learning&lt;/a&gt;, to which I was introduced during my machine learning course, DATA558 at University of Washington.  &lt;a href=&quot;https://research.google/people/author35837/&quot;&gt;Brendan McMahan&lt;/a&gt;, a principal researcher in federated learning, gave a guest lecture on his work at Google on &lt;a href=&quot;https://arxiv.org/abs/1602.05629&quot;&gt;training federated deep learning models&lt;/a&gt; which introduced me to the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google federated learning team to conduct research in the field and contribute experimental findings to their ongoing work.&lt;/p&gt;
-
-&lt;p&gt;My research focused on pretraining methods for federated deep learning models designed for next word prediction.  This is an important area of applied research for federated learning, as the Google mobile keyboard application uses federated learning to train models to predict words in text messages, offering user suggestions for the top three predicted words given some starting text.  Model pretraining promises enhanced accuracy and reduced training time, which we demonstrate in our research results.&lt;/p&gt;
-
-&lt;p&gt;While the Google mobile keyboard is an early application of federated learning, there are many open areas of research, some with tremendous impact potential.  For example, most clinical research with machine learning models is limited to electronic medical records owned by a single institution.  Models may not generalize from training data at one institution to another, and training datasets are often limited to the size of the dataset at one institution.  Federated models present the possibility of learning from medical records from many institutions without compromising privacy or security by bringing the model to each distributed dataset and averaging the learned parameters, as opposed to centrally aggregating patient data, which is often a legal and ethical impossibility. Just as Google uses federated models to avoid centrally aggregating user text messages, so too federated models could be used to generate predictions and recommendations for patients based on distributed medical data.&lt;/p&gt;
-
-&lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for our work, and please don’t hesitate to reach out if the topic sparks your interest :)&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</guid>
-        
-        
-        <category>machine-learning</category>
         
       </item>
     
