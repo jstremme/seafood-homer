@@ -6,9 +6,110 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Apr 2021 10:46:29 -0700</pubDate>
-    <lastBuildDate>Sat, 10 Apr 2021 10:46:29 -0700</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 17:31:44 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 17:31:44 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Light</title>
+        <description>&lt;p&gt;What have you revealed to me that I did not see for myself,&lt;/p&gt;
+
+&lt;p&gt;and what truth have you helped me discern,&lt;/p&gt;
+
+&lt;p&gt;which, in your shadow,&lt;/p&gt;
+
+&lt;p&gt;would have been to me an empty surface,&lt;/p&gt;
+
+&lt;p&gt;like a rock held fast by the earth&lt;/p&gt;
+
+&lt;p&gt;whose underbelly teems with life,&lt;/p&gt;
+
+&lt;p&gt;hiding the plain forms of being that nourish the soil.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;When I come to anger,&lt;/p&gt;
+
+&lt;p&gt;what more than reason can purify my heart&lt;/p&gt;
+
+&lt;p&gt;and sculpt my intentions into the well-being of every person&lt;/p&gt;
+
+&lt;p&gt;for the duration of this brief visit.&lt;/p&gt;
+
+&lt;p&gt;Or is all goodness stored as light behind the glass of the sky,&lt;/p&gt;
+
+&lt;p&gt;to us, translucent,&lt;/p&gt;
+
+&lt;p&gt;in some moments shining over the earth.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2022 11:20:00 -0800</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/light/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/light/</guid>
+        
+        
+        <category>Poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Nest</title>
+        <description>&lt;p&gt;That which controls the depths of the sounds and shapes around me,&lt;/p&gt;
+
+&lt;p&gt;the map of how far along each dimension&lt;/p&gt;
+
+&lt;p&gt;to run the presence of each sensation and object,&lt;/p&gt;
+
+&lt;p&gt;remains hidden and separate from my description.&lt;/p&gt;
+
+&lt;p&gt;I am unable to distill the variation in these forms,&lt;/p&gt;
+
+&lt;p&gt;to catalog the shrillness of the bird call,&lt;/p&gt;
+
+&lt;p&gt;the sturdiness and angle of the rooftop,&lt;/p&gt;
+
+&lt;p&gt;which, though imperfect,&lt;/p&gt;
+
+&lt;p&gt;I perceive as a smooth triangle,&lt;/p&gt;
+
+&lt;p&gt;terminating above the yard in a clean line,&lt;/p&gt;
+
+&lt;p&gt;while, simultaneously, forming a point&lt;/p&gt;
+
+&lt;p&gt;from which all else falls,&lt;/p&gt;
+
+&lt;p&gt;the water and debris to the ground below.&lt;/p&gt;
+
+&lt;p&gt;Even my boots slide against the red shingles.&lt;/p&gt;
+
+&lt;p&gt;I lift myself higher to see inside the nest,&lt;/p&gt;
+
+&lt;p&gt;and peer into the origin of the bird call,&lt;/p&gt;
+
+&lt;p&gt;witnessing the smallness and complexity&lt;/p&gt;
+
+&lt;p&gt;sounding the ineffable fullness of life.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2022 11:10:00 -0800</pubDate>
+        <link>http://localhost:4000/seafood-homer/poetry/nest/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/nest/</guid>
+        
+        
+        <category>Poetry</category>
+        
+      </item>
+    
+      <item>
+        <title>Multi-Node Multi-GPU Comprehensive Working Example for PyTorch Lightning on AzureML</title>
+        <description>&lt;p&gt;With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  You can check it out at &lt;a href=&quot;https://medium.com/@joelstremmel22/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml-bde6abdcd6aa&quot;&gt;this link&lt;/a&gt;. I hope the guide is useful to ML practitioners and researchers alike.  Feel free to leave comments on Medium.  Thanks in advance for any feedback!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Oct 2021 11:00:00 -0700</pubDate>
+        <link>http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
+        
+        
+        <category>Machine-Learning</category>
+        
+      </item>
     
       <item>
         <title>April</title>
@@ -67,41 +168,6 @@
         
         
         <category>Film</category>
-        
-      </item>
-    
-      <item>
-        <title>Roots</title>
-        <description>&lt;p&gt;I spent years away from you,&lt;/p&gt;
-
-&lt;p&gt;And buried thousands of hours of thoughts&lt;/p&gt;
-
-&lt;p&gt;Below the surface of your being,&lt;/p&gt;
-
-&lt;p&gt;Deep where I thought you were not.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Then, on a dark day,&lt;/p&gt;
-
-&lt;p&gt;On a tree-covered path,&lt;/p&gt;
-
-&lt;p&gt;I noticed the roots of the trees&lt;/p&gt;
-
-&lt;p&gt;Were so strong&lt;/p&gt;
-
-&lt;p&gt;That they rose from below&lt;/p&gt;
-
-&lt;p&gt;And shattered the bricks of the path,&lt;/p&gt;
-
-&lt;p&gt;Breaking the seal that held them straight.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jan 2021 17:30:00 -0800</pubDate>
-        <link>http://localhost:4000/seafood-homer/poetry/roots/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/poetry/roots/</guid>
-        
-        
-        <category>Poetry</category>
         
       </item>
     
@@ -298,110 +364,11 @@
 &lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for our work, and please don’t hesitate to reach out if the topic sparks your interest :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/data-science/pretraining-federated-text-models/</guid>
+        <link>http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</guid>
         
         
-        <category>Data-Science</category>
-        
-      </item>
-    
-      <item>
-        <title>Maple Loop Pass</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/seafood-homer/assets/images/maple-loop-pass.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My favorite hikes tend to be colorful, exposed, and nestled between mountains for as far as the eye can see.  &lt;a href=&quot;https://www.wta.org/go-hiking/hikes/maple-pass&quot;&gt;Maple Loop Pass&lt;/a&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/North_Cascades_National_Park&quot;&gt;North Cascades National Park&lt;/a&gt; is no exception, offering all of these in a seven mile loop which gains 2,000 feet in elevation and carries hikers along a narrow but innocuous ridgeline for much of the journey.&lt;/p&gt;
-
-&lt;p&gt;Wildflowers decorate the vast, exposed fields on either side of the ridgeline, and views of Lake Ann and Rainy Lake offer great places to stop and relax.  If the weather looks promising, the apex of the loop, Maple Pass, is a fine place for a picnic.&lt;/p&gt;
-
-&lt;p&gt;The steady elevation gain and moderate distance make this hike a worthy weekend constitutional, while the open environment offers a gorgeous respite for those seeking peace in nature.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Sep 2019 11:01:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/places/maple-loop-pass/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/places/maple-loop-pass/</guid>
-        
-        
-        <category>Places</category>
-        
-      </item>
-    
-      <item>
-        <title>Dogs</title>
-        <description>&lt;h3 id=&quot;ms&quot;&gt;MS’&lt;/h3&gt;
-&lt;p&gt;Few people in the audience can discern the rhythm. In fact few people on stage are able to so much as tap along, save André Eats and about half the leaderboard. André leads the pack. 40 fish tacos. His cheeks are crimson; his eyes are wide. Nathan’s pace. André’s a taco to hot dog transubstantiation away from fame.&lt;/p&gt;
-
-&lt;p&gt;Time stops.&lt;/p&gt;
-
-&lt;p&gt;“How does it feel to set a record on your first appearance?”&lt;/p&gt;
-
-&lt;p&gt;“I just came out here and fought through. I kept my head down. I stuck to what I do best.”&lt;/p&gt;
-
-&lt;p&gt;André did doubles best. It was the psychology of it. Sure it was a slower hand to stomach time than a single, but it felt like eating one, one big one, one big one that counted for two. And this time his 23 grabs, 46 tacos, cheese, tartar, and all, brought him 3,760 dollars. The other half went to charity. The one that mailed the bus ticket to San Jose.&lt;/p&gt;
-
-&lt;p&gt;“Babe, I did it :p,” he texted Cara,&lt;/p&gt;
-
-&lt;p&gt;“Great. I need you home tonight.”&lt;/p&gt;
-
-&lt;p&gt;The bay was violet. Traffic was thick. André shifted in his seat and checked his phone.  The green light kept flashing. Broken, he thought as he scrolled, seeing no new messages. His mouth was dry; his tongue like paper. The engine continued to whir. Nobody seemed to notice his shirt. In dull red letters it read, “6th Annual MS Fish Taco Challenge Champ.” The flailing fish below received his smile.&lt;/p&gt;
-
-&lt;h3 id=&quot;caras&quot;&gt;Cara’s&lt;/h3&gt;
-&lt;p&gt;“Finally,” said Cara as André entered her small, downtown Oakland apartment. He removed his sturdy Columbia hiking books, worn from overuse.&lt;/p&gt;
-
-&lt;p&gt;“It’s a bit of a hike. You have to take…”&lt;/p&gt;
-
-&lt;p&gt;“We need to talk,” Cara interrupted. She had her way of doing it nicely, but André suspected the tone to be masking some greater ambition.&lt;/p&gt;
-
-&lt;p&gt;The microwave beeped.Once. Twice. Cara was there to stop the third. The small apartment filled with the smell of melted, microwave cheese on corn flour tortilla.&lt;/p&gt;
-
-&lt;p&gt;“Why do you do this?” Cara pleaded as she removed a jar of salsa from the new refrigerator, void of doodles and magnets.&lt;/p&gt;
-
-&lt;p&gt;“It pays.  It’s more than I could make…”&lt;/p&gt;
-
-&lt;p&gt;“It’s not about that,” she interrupted. “I just, if we’re getting married, it seems I ought to know why. Is this who you are, or… what’s so important about it? MS?”&lt;/p&gt;
-
-&lt;p&gt;André looked down at his shirt. The truth was that he knew next to nothing about MS. He knew next to nothing about half the places he went to compete, or the charities sponsoring the events. What he did know about, deep down, was how at home he felt, guiding timeless creations from plate to mouth, one after another with balletic indulgence, peaking out from behind messy fingers at the curious kids and irreverent fathers who came to watch the absurd caloric carnivals that André called his sport. He knew his talent appeared semi-supernatural to the more common appetites of his spellbound spectators. And it felt good.&lt;/p&gt;
-
-&lt;p&gt;“I do like to do these, Cara. It’s my thing. People have all kinds of weird things they like to do, and this feels good to me. Like I was meant to be up there and make that kind of fun for people. I have a real shot next month at Nathan’s.”&lt;/p&gt;
-
-&lt;p&gt;“It’s a tremendous waste of food. And bad for you. I know you like it and it makes people happy, but… I don’t know… like how you could make this such a focus and all that. I don’t see it.”&lt;/p&gt;
-
-&lt;p&gt;“Maybe you don’t have to” said André. “I’d like you to, but maybe you don’t have to.” He began a slow walk toward her.&lt;/p&gt;
-
-&lt;p&gt;“It’s more that I feel like people find meaning in what they do. Or that they should or something like that,” said Cara as she finished her quesadilla. André drew nearer to her in the kitchen. His eyes traced her extended arm as it reached for the faucet. The water came out fast, pounding hard against the empty sink. He paused, then reached for her other wrist, holding it delicately. She turned and gave him a drawn out look. They kissed. Cara bowed her head. André felt her soft brown hair, poking from the back of a mesh, white hat the way it so often did.&lt;/p&gt;
-
-&lt;p&gt;André zoomed out, “I’m missing a lot, meaning-wise and all that. Mostly about
-you. Can you answer this sorta thing? You can, and I’m afraid I’m in the dark
-about what you’d say. Eating with a blindfold.”&lt;/p&gt;
-
-&lt;p&gt;The moon was barely visible from the window above the sink. The city lights dimmed the stars against the sky. André and Cara were silent, standing together as if assigned, placed beside each other on two square tiles in a rectangular kitchen in a prism apartment.&lt;/p&gt;
-
-&lt;h3 id=&quot;nathans&quot;&gt;Nathan’s&lt;/h3&gt;
-&lt;p&gt;The announcer gave the words of institution, blessing each body with praise. “The three foot noodle eating, cannoli eating, chicken tender eating champion of the world: Karl, “The Crusher,” Kotlowski!”&lt;/p&gt;
-
-&lt;p&gt;The applause swelled louder with each new contestant. Seasoned spectators knew
-André was a favorite by the order he was introduced, followed only by last year’s
-champion.&lt;/p&gt;
-
-&lt;p&gt;“Aaaaaandrrrrréééé… Eats! Ladies and gentlemen.” He took his place on the far end of the stage where the likes of Takeru Kobayashi, Joey Chestnut, and Matt Stonie once stood. He was among the best that day, a rising star with a bid for first, predicted to at least make a top three finish. What separated the top three finishers from the rest of the pack was often a fifteen-dog difference. André was the product of dedication, a symbol to fans and eaters alike, and today his sights were set. The defending champ sauntered onto the stage. The announcer spoke the words of intinction. The dogs came out, then the judges for each contestant. The clock began to tick. Then all was a blur.&lt;/p&gt;
-
-&lt;h3 id=&quot;andrés&quot;&gt;André’s&lt;/h3&gt;
-&lt;p&gt;André’s breaths were quick. Two at a time he grabbed and shoved. The hot dogs
-were good at first. Then better. Then slowly, surely, with glances to the right and left,
-every so often, they tasted worse and worse. They were boulders, rising, falling. Until
-finally he pushed without sensation, numb to the results. But it was when he saw the
-number beside him, signaling his four dog deficit, that try as he did to conquer four in
-one grab, he couldn’t, looking instead to the people below, loud and waving, all heads to
-the sky but one. This, a bowed, hatted head, white mesh with soft brown hair. He did not
-know what made it rise and fall, but he was determined to discover; to two at a time
-digest the dissonance of the sounds in this place and many others; to carry each other
-through.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Oct 2017 05:03:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/short-stories/dogs/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/short-stories/dogs/</guid>
-        
-        
-        <category>Short-Stories</category>
+        <category>Machine-Learning</category>
         
       </item>
     
