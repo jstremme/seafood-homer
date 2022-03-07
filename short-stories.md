@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Short Stories"
-permalink: /short-stories/
+category: Short-Stories
+permalink: /categories/short-stories/
 ---
 
 {% for post in site.categories.Short-Stories %}

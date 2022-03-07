@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Philosophy"
-permalink: /philosophy/
+category: Philosophy
+permalink: /categories/philosophy/
 ---
 
 {% for post in site.categories.Philosophy %}

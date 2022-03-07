@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/seafood-homer/</link>
     <atom:link href="http://localhost:4000/seafood-homer/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2022 17:49:32 -0800</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2022 17:49:32 -0800</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2022 18:26:26 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 18:26:26 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -103,13 +103,11 @@
         <description>&lt;p&gt;With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  You can check it out at &lt;a href=&quot;https://medium.com/@joelstremmel22/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml-bde6abdcd6aa&quot;&gt;this link&lt;/a&gt;. I hope the guide is useful to ML practitioners and researchers alike.  Feel free to leave comments on Medium.  Thanks in advance for any feedback!&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Oct 2021 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/machine/learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine/learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
+        <link>http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/</guid>
         
         
-        <category>Machine</category>
-        
-        <category>Learning</category>
+        <category>Machine-Learning</category>
         
       </item>
     
@@ -366,13 +364,11 @@
 &lt;p&gt;I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the &lt;a href=&quot;https://github.com/federated-learning-experiments/fl-text-models&quot;&gt;code&lt;/a&gt; and &lt;a href=&quot;https://arxiv.org/abs/2005.04828&quot;&gt;paper&lt;/a&gt; for our work, and please don’t hesitate to reach out if the topic sparks your interest :)&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 May 2020 11:00:00 -0700</pubDate>
-        <link>http://localhost:4000/seafood-homer/machine/learning/pretraining-federated-text-models/</link>
-        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine/learning/pretraining-federated-text-models/</guid>
+        <link>http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</link>
+        <guid isPermaLink="true">http://localhost:4000/seafood-homer/machine-learning/pretraining-federated-text-models/</guid>
         
         
-        <category>Machine</category>
-        
-        <category>Learning</category>
+        <category>Machine-Learning</category>
         
       </item>
     

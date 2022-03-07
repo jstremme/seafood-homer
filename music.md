@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Music"
-permalink: /music/
+category: Music
+permalink: /categories/music/
 ---
 
 {% for post in site.categories.Music %}

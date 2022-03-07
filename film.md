@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Film"
+category: Film
 permalink: /film/
 ---
 

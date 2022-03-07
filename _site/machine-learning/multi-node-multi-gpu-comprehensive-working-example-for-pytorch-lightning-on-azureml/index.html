@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Pretraining Federated Text Models for Next Word Prediction</title>
-  <meta name="description" content="In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focu...">
+  <title>Multi-Node Multi-GPU Comprehensive Working Example for PyTorch Lightning on AzureML</title>
+  <meta name="description" content="With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  Yo...">
 
   <link rel="stylesheet" href="/seafood-homer/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/seafood-homer/machine/learning/pretraining-federated-text-models/">
+  <link rel="canonical" href="http://localhost:4000/seafood-homer/machine-learning/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml/">
   <link rel="alternate" type="application/rss+xml" title="seafood-homer" href="http://localhost:4000/seafood-homer/feed.xml">
 </head>
 
@@ -47,29 +47,29 @@
           
         
           
-          <a class="page-link" href="/seafood-homer/machine-learning/">Machine Learning</a>
+          <a class="page-link" href="/seafood-homer/categories/machine-learning/">Machine Learning</a>
           
         
           
         
           
-          <a class="page-link" href="/seafood-homer/music/">Music</a>
+          <a class="page-link" href="/seafood-homer/categories/music/">Music</a>
           
         
           
-          <a class="page-link" href="/seafood-homer/philosophy/">Philosophy</a>
+          <a class="page-link" href="/seafood-homer/categories/philosophy/">Philosophy</a>
           
         
           
-          <a class="page-link" href="/seafood-homer/places/">Places</a>
+          <a class="page-link" href="/seafood-homer/categories/places/">Places</a>
           
         
           
-          <a class="page-link" href="/seafood-homer/poetry/">Poetry</a>
+          <a class="page-link" href="/seafood-homer/categories/poetry/">Poetry</a>
           
         
           
-          <a class="page-link" href="/seafood-homer/short-stories/">Short Stories</a>
+          <a class="page-link" href="/seafood-homer/categories/short-stories/">Short Stories</a>
           
         
           
@@ -87,28 +87,19 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Pretraining Federated Text Models for Next Word Prediction</h1>
-    <p class="post-meta"><time datetime="2020-05-16T11:00:00-07:00" itemprop="datePublished">May 16, 2020</time></p>
+    <h1 class="post-title" itemprop="name headline">Multi-Node Multi-GPU Comprehensive Working Example for PyTorch Lightning on AzureML</h1>
+    <p class="post-meta"><time datetime="2021-10-20T11:00:00-07:00" itemprop="datePublished">Oct 20, 2021</time></p>
     <div class="post-categories">
       
       
-      <a href="/seafood-homer/categories/#Machine">Machine</a>
-      &nbsp;
-      
-      <a href="/seafood-homer/categories/#Learning">Learning</a>
+      <a href="/seafood-homer/categories/#Machine-Learning">Machine-Learning</a>
       
       
     </div>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>In the winter of 2020, I completed my MS in data science and my capstone project on pretraining neural networks for federated next word prediction.  The focus of this work was to contribute research to the growing field of <a href="https://ai.googleblog.com/2017/04/federated-learning-collaborative.html">federated learning</a>, to which I was introduced during my machine learning course, DATA558 at University of Washington.  <a href="https://research.google/people/author35837/">Brendan McMahan</a>, a principal researcher in federated learning, gave a guest lecture on his work at Google on <a href="https://arxiv.org/abs/1602.05629">training federated deep learning models</a> which introduced me to the topic.  My enterprising classmate and soon to be research partner followed up with Brendan after the lecture.  This led to a project the following academic year in which he and I worked with two project sponsors from the Google federated learning team to conduct research in the field and contribute experimental findings to their ongoing work.</p>
-
-<p>My research focused on pretraining methods for federated deep learning models designed for next word prediction.  This is an important area of applied research for federated learning, as the Google mobile keyboard application uses federated learning to train models to predict words in text messages, offering user suggestions for the top three predicted words given some starting text.  Model pretraining promises enhanced accuracy and reduced training time, which we demonstrate in our research results.</p>
-
-<p>While the Google mobile keyboard is an early application of federated learning, there are many open areas of research, some with tremendous impact potential.  For example, most clinical research with machine learning models is limited to electronic medical records owned by a single institution.  Models may not generalize from training data at one institution to another, and training datasets are often limited to the size of the dataset at one institution.  Federated models present the possibility of learning from medical records from many institutions without compromising privacy or security by bringing the model to each distributed dataset and averaging the learned parameters, as opposed to centrally aggregating patient data, which is often a legal and ethical impossibility. Just as Google uses federated models to avoid centrally aggregating user text messages, so too federated models could be used to generate predictions and recommendations for patients based on distributed medical data.</p>
-
-<p>I’m grateful to my research partner, mentors on the federated learning team at Google, and professor at UW for the opportunity to get involved in this exciting area of research.  Feel free to check out the <a href="https://github.com/federated-learning-experiments/fl-text-models">code</a> and <a href="https://arxiv.org/abs/2005.04828">paper</a> for our work, and please don’t hesitate to reach out if the topic sparks your interest :)</p>
+    <p>With the permission of my company, OptumLabs, I wrote a comprehensive Medium blog post on multi-node multi-GPU training for PyTorch Lightning on AzureML.  You can check it out at <a href="https://medium.com/@joelstremmel22/multi-node-multi-gpu-comprehensive-working-example-for-pytorch-lightning-on-azureml-bde6abdcd6aa">this link</a>. I hope the guide is useful to ML practitioners and researchers alike.  Feel free to leave comments on Medium.  Thanks in advance for any feedback!</p>
 
   </div>
 

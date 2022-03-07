@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Poetry"
-permalink: /poetry/
+category: Poetry
+permalink: /categories/poetry/
 ---
 
 {% for post in site.categories.Poetry %}

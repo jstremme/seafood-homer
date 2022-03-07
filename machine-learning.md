@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Machine Learning"
-permalink: /machine-learning/
+category: Machine-Learning
+permalink: /categories/machine-learning/
 ---
 
 {% for post in site.categories.Machine-Learning %}

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Places"
-permalink: /places/
+category: Places
+permalink: /categories/places/
 ---
 
 {% for post in site.categories.Places %}
