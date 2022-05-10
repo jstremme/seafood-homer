@@ -21,7 +21,7 @@ The long, gray clouds of April are sunken ships
 
 hidden deep in the blue sky of mid-May.
 
-The garden is thirsty
+The garden is thirsty.
 
 The first cup of coffee is not quite a pleasure,
 
